@@ -1,5 +1,5 @@
 class Node:
-    def __init__(self, val):
+    def __init__(self, val= None):
         self.val = val
         self.next = None
 
@@ -13,6 +13,9 @@ class Node:
 n1 = Node(37)
 n2 = Node(52)
 n1.next = n2
+n1.print_data()
+n0 = Node()
+n2.next = n0
 n1.print_data()
 
 
