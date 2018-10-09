@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bbede9-b7b2-4d01-80b0-1a92d54e8378" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleStack.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinkedLists.py" afterPath="$PROJECT_DIR$/LinkedLists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PalindromeLinkedList.py" afterPath="$PROJECT_DIR$/PalindromeLinkedList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MinOperationStack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NDArrayOperations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SetOfStacks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleStack.py" afterPath="$PROJECT_DIR$/SimpleStack.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +27,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleStack.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleStack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleStack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinOperationStack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MinOperationStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetOfStacks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SetOfStacks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NDArrayOperations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NDArrayOperations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -108,13 +140,16 @@
         <option value="$PROJECT_DIR$/LinkedLists.py" />
         <option value="$PROJECT_DIR$/PalindromeLinkedList.py" />
         <option value="$PROJECT_DIR$/SimpleStack.py" />
+        <option value="$PROJECT_DIR$/MinOperationStack.py" />
+        <option value="$PROJECT_DIR$/NDArrayOperations.py" />
+        <option value="$PROJECT_DIR$/SetOfStacks.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1089" />
-    <option name="height" value="824" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -199,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PalindromeLinkedList">
-    <configuration name="LLDuplicateDeletion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SetOfStacks">
+    <configuration name="MinOperationStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,12 +247,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LLDuplicateDeletion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinOperationStack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LinkedLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NDArrayOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,24 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedLists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="MatrixRotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatrixRotation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NDArrayOperations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +286,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PalindromePermutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SetOfStacks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,25 +298,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PalindromePermutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SetOfStacks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SimpleStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Structures" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimpleStack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PalindromePermutation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MatrixRotation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LinkedLists" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LLDuplicateDeletion" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PalindromeLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PalindromeLinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SimpleStack" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MinOperationStack" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NDArrayOperations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SetOfStacks" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PalindromeLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LinkedLists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LLDuplicateDeletion" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MatrixRotation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PalindromePermutation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SetOfStacks" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NDArrayOperations" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MinOperationStack" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SimpleStack" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PalindromeLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -316,13 +351,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1089" height="824" extended-state="0" />
+    <frame x="0" y="23" width="1089" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21488595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33378196" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -391,10 +426,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LLDuplicateDeletion.py">
+    <entry file="file://$PROJECT_DIR$/HashMap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="315">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -407,6 +442,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LLDuplicateDeletion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PalindromeLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -415,18 +458,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HashMap.py">
+    <entry file="file://$PROJECT_DIR$/SimpleStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleStack.py">
+    <entry file="file://$PROJECT_DIR$/MinOperationStack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="495">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NDArrayOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetOfStacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
