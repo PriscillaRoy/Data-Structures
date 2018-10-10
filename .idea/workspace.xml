@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bbede9-b7b2-4d01-80b0-1a92d54e8378" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TreeTraversals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/HeapOperations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeTraversals.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TreeTraversals.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TreeTraversals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapOperations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/HeapOperations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,6 +141,7 @@
         <option value="$PROJECT_DIR$/NDArrayOperations.py" />
         <option value="$PROJECT_DIR$/SetOfStacks.py" />
         <option value="$PROJECT_DIR$/TreeTraversals.py" />
+        <option value="$PROJECT_DIR$/.idea/HeapOperations.py" />
       </list>
     </option>
   </component>
@@ -479,8 +490,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TreeTraversals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/HeapOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
