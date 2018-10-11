@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bbede9-b7b2-4d01-80b0-1a92d54e8378" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphDFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Calculations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GraphDFS.py" afterPath="$PROJECT_DIR$/GraphDFS.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HashMap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HashMap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SimpleStack.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleStack.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,11 +56,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GraphDFS.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GraphDFS.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GraphDFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/Calculations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KadanesAlg.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KadanesAlg.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,26 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LinkedLists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedLists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LLDuplicateDeletion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LLDuplicateDeletion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -143,6 +145,8 @@
         <option value="$PROJECT_DIR$/TreeTraversals.py" />
         <option value="$PROJECT_DIR$/.idea/HeapOperations.py" />
         <option value="$PROJECT_DIR$/GraphDFS.py" />
+        <option value="$PROJECT_DIR$/.idea/test.py" />
+        <option value="$PROJECT_DIR$/.idea/Calculations.py" />
       </list>
     </option>
   </component>
@@ -233,25 +237,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TreeTraversals">
-    <configuration name="MinOperationStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Calculations">
+    <configuration name="Calculations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MinOperationStack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Calculations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="NDArrayOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GraphDFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NDArrayOperations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GraphDFS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,23 +289,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SimpleStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Data-Structures" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimpleStack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="TreeTraversals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,20 +306,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Structures" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SimpleStack" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MinOperationStack" />
-      <item index="2" class="java.lang.String" itemvalue="Python.NDArrayOperations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SetOfStacks" />
-      <item index="4" class="java.lang.String" itemvalue="Python.TreeTraversals" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SetOfStacks" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TreeTraversals" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GraphDFS" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Calculations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.TreeTraversals" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SetOfStacks" />
-        <item index="2" class="java.lang.String" itemvalue="Python.NDArrayOperations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MinOperationStack" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SimpleStack" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Calculations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GraphDFS" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TreeTraversals" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SetOfStacks" />
       </list>
     </recent_temporary>
   </component>
@@ -489,14 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TreeTraversals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/HeapOperations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -505,10 +501,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TreeTraversals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GraphDFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Calculations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KadanesAlg.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
